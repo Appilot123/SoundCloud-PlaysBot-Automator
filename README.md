@@ -1,5 +1,14 @@
 <h1 align="center">SoundCloud PlaysBot Automator</h1>
 
+## Project Overview:
+This project automates the generation of plays on SoundCloud tracks, giving users full control over playback behavior using proxy management and random delays to simulate human interaction. It's built to help musicians, marketers, and agencies boost engagement metrics for specific tracks—stealthily and scalably. The bot supports multiple songs, real-time progress tracking, and safe stoppage, all while ensuring plays are actually registered on SoundCloud.
+
+
+## Core Strengths:
+- **Proxy Flexibility:** Load and rotate custom proxy lists to stay anonymous and avoid IP bans.
+- **Human-like Behavior:** Varies playback times and adds random pauses to mimic genuine listening.
+- **Multi-Track Automation:** Supports bulk song handling with isolated session control per track.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -63,14 +72,6 @@
 
 <div align="left">
 
-## Project Overview:
-This project automates the generation of plays on SoundCloud tracks, giving users full control over playback behavior using proxy management and random delays to simulate human interaction. It's built to help musicians, marketers, and agencies boost engagement metrics for specific tracks—stealthily and scalably. The bot supports multiple songs, real-time progress tracking, and safe stoppage, all while ensuring plays are actually registered on SoundCloud.
-
-
-## Core Strengths:
-- **Proxy Flexibility:** Load and rotate custom proxy lists to stay anonymous and avoid IP bans.
-- **Human-like Behavior:** Varies playback times and adds random pauses to mimic genuine listening.
-- **Multi-Track Automation:** Supports bulk song handling with isolated session control per track.
 
 
 ## Features List:
